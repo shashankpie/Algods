@@ -1,5 +1,8 @@
 ## Where to start?
 
+Learn any Programming language first. I would recommend these for Beginners/ newcomers
+- JavaScript (useful for Full-stack web development)  
+- <strong>Python</strong> (General purpose programming language)
 
 <strong>Learning Path</strong>
   
